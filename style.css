@@ -1,28 +1,25 @@
-/* Element selector */
+
 body {
     background-color: #fafafa;
     margin: 20px;
     font-family: Verdana, sans-serif;
 }
 
-/* Element selector */
+
 h3 {
     color: darkgreen;
     text-align: left;
 }
 
-/* List styling */
 ul {
     list-style-type: square;
     color: #444;
 }
 
-/* Class selector */
 .content {
     line-height: 1.6;
 }
 
-/* Section background styling */
 #schedule {
-    background-image: linear-gradient(to right, #e6f7ff, #ffffff);
+    background-image: linear-gradient(to right, #0f2027, #203a43);
 }
